@@ -81,7 +81,6 @@ a.btn:hover {
     background-color: var(--cor2);
     transition: 0.5s;
 }
-
 #img-1 {
     background-image: url(../img/tenis1.jpg);
 }
