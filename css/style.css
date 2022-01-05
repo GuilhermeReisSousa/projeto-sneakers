@@ -82,12 +82,6 @@ a.btn:hover {
     transition: 0.5s;
 }
 
-a.btn::before {
-    content: " ";
-    background-color: var(--cor1);
-    transition: 1s;
-}
-
 #img-1 {
     background-image: url(../img/tenis1.jpg);
 }
